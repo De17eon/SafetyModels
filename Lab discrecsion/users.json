@@ -1,0 +1,17 @@
+[
+  {
+    "login": "ADMIN",
+    "password": "admin",
+    "access": "4123"
+  },
+  {
+    "login": "Leo",
+    "password": "oel",
+    "access": "4123"
+  },
+  {
+    "login": "Kira",
+    "password": "deathnote",
+    "access": "12"
+  }
+]

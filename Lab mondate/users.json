@@ -1,0 +1,22 @@
+[
+  {
+    "login": "ADMIN",
+    "password": "admin",
+    "access": "a"
+  },
+  {
+    "login": "Leo",
+    "password": "oel",
+    "access": "a"
+  },
+  {
+    "login": "Maksim",
+    "password": "demo",
+    "access": "a"
+  },
+  {
+    "login": "Kira",
+    "password": "deathnote",
+    "access": "b"
+  }
+]
